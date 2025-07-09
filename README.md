@@ -24,3 +24,4 @@ BOM:
 | **LED**            | Blinks to indicate when time is up             | Already have                                                                                                          | N/A    |
 | **Potentiometer**  | Used to regulate contrast of the LCD           | [Alibaba](https://www.alibaba.com/product-detail/High-Quality-16mm-WH148-Rotary-Mono_1601201209855.html)              | \$0.11 |
 | **4× Buttons**     | Indicate how many minutes to set the timer for | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-60-BK-160-LCR-D/15634268) | \$0.40 |
+| **4x M4x0.7 20mm** | Connects the top and bottom of the case        | [Amazon](https://www.amazon.com/DTGN-M4-0-7x20mm-Button-Socket-Screws/)                                       | $7.09 |
