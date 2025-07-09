@@ -6,9 +6,12 @@ I made this because my sister always spends an ungodly amount of time in the bat
 
 Schematic:
 
+<img width="451" alt="Screenshot 2025-07-08 at 9 16 59 PM" src="https://github.com/user-attachments/assets/bbe58f99-a35f-40da-8c90-46f2d6a416d6" />
+
 
 Pictures:
 
+<img width="513" alt="Screenshot 2025-07-08 at 8 36 07 PM" src="https://github.com/user-attachments/assets/6c45e756-880e-48ba-975e-64e007ac46d2" />
 
 BOM:
 
