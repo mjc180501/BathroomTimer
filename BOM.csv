@@ -1,0 +1,9 @@
+Name,Description,Link,Cost
+Arduino Nano,Microcontroller for logic and control,Alibaba,$2.20
+LCD - 016N002L,Display for timer countdown,Alibaba,$0.78
+MPU-6050,Accelerometer that reports movement,Alibaba,$1.08
+9V Battery,Powers the entire board,DigiKey,$4.46
+LED,Blinks to indicate when time is up,Already have,N/A
+Potentiometer,Used to regulate contrast of the LCD,Alibaba,$0.11
+4× Buttons,Indicate how many minutes to set the timer for,DigiKey,$0.40
+4x M4x0.7 20mm,Connects the top and bottom of the case,Amazon,$7.09
