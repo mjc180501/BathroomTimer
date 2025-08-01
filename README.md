@@ -17,11 +17,12 @@ BOM:
 
 | Name               | Description                                    | Link                                                                                                                  | Cost   |
 | ------------------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Arduino Nano**   | Microcontroller for logic and control          | [Alibaba](https://www.alibaba.com/pla/good-quality-Arduino-Nano-V30-CH340G_1600942840347.html)                        | \$2.20 |
-| **LCD - 016N002L** | Display for timer countdown                    | [Alibaba](https://www.alibaba.com/product-detail/p_62532698703.html)                                                  | \$0.78 |
-| **MPU-6050**       | Accelerometer that reports movement            | [Alibaba](https://www.alibaba.com/product-detail/GY-521-MPU-6050-MPU6050-Module_1600307178499.html)                   | \$1.08 |
-| **9V Battery**     | Powers the entire board                        | [DigiKey](https://www.digikey.com/en/products/detail/duracell-industrial-operations-inc/9V/21259959)                  | \$4.46 |
+| **Arduino Nano**   | Microcontroller for logic and control          | [Alibaba](https://www.alibaba.com/pla/good-quality-Arduino-Nano-V30-CH340G_1600942840347.html)                        | $2.20  |
+| **LCD - 016N002L** | Display for timer countdown                    | [Alibaba](https://www.alibaba.com/product-detail/p_62532698703.html)                                                  | $0.78  |
+| **MPU-6050**       | Accelerometer that reports movement            | [Alibaba](https://www.alibaba.com/product-detail/GY-521-MPU-6050-MPU6050-Module_1600307178499.html)                   | $1.08  |
+| **9V Battery**     | Powers the entire board                        | [AliExpress](https://www.aliexpress.us/item/1005006049794370.html)                                                    | ~$1.50 |
 | **LED**            | Blinks to indicate when time is up             | Already have                                                                                                          | N/A    |
-| **Potentiometer**  | Used to regulate contrast of the LCD           | [Alibaba](https://www.alibaba.com/product-detail/High-Quality-16mm-WH148-Rotary-Mono_1601201209855.html)              | \$0.11 |
-| **4× Buttons**     | Indicate how many minutes to set the timer for | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-60-BK-160-LCR-D/15634268) | \$0.40 |
-| **4x M4x0.7 20mm** | Connects the top and bottom of the case        | [Amazon](https://www.amazon.com/DTGN-M4-0-7x20mm-Button-Socket-Screws/)                                       | $7.09 |
+| **Potentiometer**  | Used to regulate contrast of the LCD           | [Alibaba](https://www.alibaba.com/product-detail/High-Quality-16mm-WH148-Rotary-Mono_1601201209855.html)              | $0.11  |
+| **4× Buttons**     | Indicate how many minutes to set the timer for | Already have                                                                                                          | N/A    |
+| **4x M4x0.7 20mm** | Connects the top and bottom of the case        | [Amazon](https://www.amazon.com/DTGN-M4-0-7x20mm-Button-Socket-Screws/)                                               | $7.09  |
+
